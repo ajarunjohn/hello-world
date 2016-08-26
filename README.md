@@ -1,2 +1,5 @@
 # hello-world
-My Hello World Repository
+
+Hi Everyone,
+
+I'm the new guy :)
